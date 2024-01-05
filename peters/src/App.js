@@ -9,9 +9,9 @@ function App() {
  <div style={{width:"249px",backgroundColor:"#181818"}}>
  <Sidebar />
  </div>
-  {/* <div style={{width:"calc(100% - 249px)",backgroundColor:"#FAFAFA"}}>
+  <div style={{width:"calc(100% - 249px)",backgroundColor:"#FAFAFA"}}>
   <MainRoutes />
-  </div> */}
+  </div>
  </div>
   );
 }
