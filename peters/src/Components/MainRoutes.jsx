@@ -117,7 +117,7 @@ reached suppliers</p>
 <div style={{display:"flex",justifyContent:"space-between"}}>
     <div></div>
     <div>
-        {/* <EmissionTable /> */}
+        <EmissionTable />
     </div>
 </div>
     </div>
