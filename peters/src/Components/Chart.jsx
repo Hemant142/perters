@@ -3,17 +3,8 @@ import { useState, useEffect } from 'react';
 import { Bar,Line } from 'react-chartjs-2';
 // import {BarElement} from 'react-chartjs-2'
 import chartData from './ChartData'; 
-import {
-    Chart as ChartJS,
-    CategoryScale,
-    LinearScale,
-    PointElement,
-    LineElement,
-    Title,
-    Tooltip,
-    Legend,
-    BarElement
-  } from 'chart.js'
+import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend, BarElement } from 'chart.js';
+
   
   ChartJS.register(
     CategoryScale,

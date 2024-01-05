@@ -113,7 +113,7 @@ reached suppliers</p>
 <p>143</p>
     </div>
 </div>
-{/* <BarChart /> */}
+<BarChart />
 <div style={{display:"flex",justifyContent:"space-between"}}>
     <div></div>
     <div>
